@@ -1,2 +1,3 @@
 # kaspersky_autumn2022
-test
+
+Решение тестовых заданий на SafeBoard
